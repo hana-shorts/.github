@@ -2,6 +2,8 @@
 
 #### 2024 하나금융티아이 채용연계형 교육 최종프로젝트
 
+<br>
+
 # 1. 프로젝트 개요
 
 ### 1-1. 기획 배경
@@ -36,6 +38,8 @@
 ### 1-4. 서비스 아키텍처
 ![6](https://github.com/user-attachments/assets/e8e9189a-ca3c-446c-9fd6-ffa5aa429017)
 
+<br>
+
 # 2. 기술적 구현
 
 ### 2-1. 시스템 아키텍처
@@ -50,6 +54,8 @@
 #### 2-2-2. 주요 기술 : AI 모델링
 ![10](https://github.com/user-attachments/assets/db99b899-3269-4ed9-b330-d4afb3ca8c99)
 
+<br>
+
 # 3. 프로젝트 결과
 
 ### 3-1. 시연 시나리오
@@ -61,18 +67,31 @@
 ](/profile/발표자료.pdf) <br/>
 
 ### 3-3. 시연 동영상
+<a href="https://o365kopo.sharepoint.com/sites/2024/_layouts/15/stream.aspx?id=%2Fsites%2F2024%2FShared%20Documents%2F15%2E%20%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2F%EC%B5%9C%EC%8A%B9%ED%99%98%5F%ED%95%98%EB%82%98Shorts%2F%EC%B5%9C%EC%8A%B9%ED%99%98%5F%ED%95%98%EB%82%98Shorts%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E63fe3de5%2Ddd0e%2D4998%2Daa0a%2D9cb7a9878c55">시연 동영상</a><br/>
+
+<br>
+
+# 4. 부록
+
+### 4-1. 지표 기반 분석
+![그림1](https://github.com/user-attachments/assets/e6970359-52e5-4306-b7ba-a53d1e6dcd69)
+
+### 4-2. AI 모델링 정확도
+![그림2](https://github.com/user-attachments/assets/9a7125d3-eae6-489c-b987-567e57dbe63b)
+
+<br>
+
+# 5. 본인 소개
 
 
-# 4. 본인 소개
-
-| 구분      | 내용                                                                                         | 비고                                       |
-| --------- | -------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 이름      | 최승환                                                                                       |   <img src="https://github.com/user-attachments/assets/6e685be6-bb2c-4616-9d43-65b3da235850" width="150px" style="display: block; margin: 0 auto;" >|
-| 연락처    | 이메일                                                                                       | hwan970317@naver.com                          |
-| 전공      | (학)정보통신공학                                                                             | 졸업(2022.08.)                           |
-|           | (석)전파통신공학                                                                             | 졸업(2023.08.)                           |
-| Skill set | Language                                                                                     | Java, Javascript, PL/SQL, C++, C, Python   |
-|           | Framework & Library                                                                          | Spring, Flask, React, MyBatis  |
-|           | Database                                                                                     | Oracle, MySQL                              |
-|           | Etc                                                                                          | Git, AWS, GCP, Docker |
-| 교육      | 하나금융티아이 채용연계형 교육 1200시간 (한국폴리텍대학교 광명융합기술교육원 - 데이터분석과) | 2024.03.04 ~ 2024.10.18 (1200시간)         |
+| 구분         | 내용                                                                                         | 비고                                                     |
+| ---------    | -------------------------------------------------------------------------------------------- | ------------------------------------------         |
+| 이름         | 최승환                                                                                       |   <img src="https://github.com/user-attachments/assets/6e685be6-bb2c-4616-9d43-65b3da235850" width="150px" style="display: block; margin: 0 auto;" >|
+| 연락처       | 이메일                                                                                       | hwan970317@naver.com                          |
+| 전공         | (학)정보통신공학                                                                             | 졸업(2022.08.)                                   |
+|              | (석)전파통신공학                                                                             | 졸업(2023.08.)                                 |
+| Skill set    | Language                                                                                     | Java, Javascript, PL/SQL, C++, C, Python          |
+|              | Framework & Library                                                                          | Spring, Flask, React, MyBatis                  |
+|              | Database                                                                                     | Oracle, MySQL                                    |
+|              | Etc                                                                                          | Git, AWS, GCP, Docker                          |
+| 교육         | 하나금융티아이 채용연계형 교육<br>(한국폴리텍대학교 광명융합기술교육원 - 데이터분석과) | 2024.03.04 ~ 2024.10.18 (1200시간)                     |
