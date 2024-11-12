@@ -67,7 +67,7 @@
 ](/profile/발표자료.pdf) <br/>
 
 ### 3-3. 시연 동영상
-<a href="https://o365kopo.sharepoint.com/sites/2024/_layouts/15/stream.aspx?id=%2Fsites%2F2024%2FShared%20Documents%2F15%2E%20%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%2F%EC%B5%9C%EC%8A%B9%ED%99%98%5F%ED%95%98%EB%82%98Shorts%2F%EC%B5%9C%EC%8A%B9%ED%99%98%5F%ED%95%98%EB%82%98Shorts%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E63fe3de5%2Ddd0e%2D4998%2Daa0a%2D9cb7a9878c55">시연 동영상</a><br/>
+[![Video Label](http://img.youtube.com/vi/CLSQKQEEMGg/0.jpg)](https://youtu.be/CLSQKQEEMGg?t=0s)
 
 <br>
 
