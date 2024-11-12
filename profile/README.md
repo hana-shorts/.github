@@ -67,7 +67,7 @@
 ](/profile/발표자료.pdf) <br/>
 
 ### 3-3. 시연 동영상
-[![Video Label](http://img.youtube.com/vi/CLSQKQEEMGg/0.jpg)](https://youtu.be/CLSQKQEEMGg?t=0s)
+[![Video Label](http://img.youtube.com/vi/0l5pfCAHaIk/0.jpg)](https://youtu.be/0l5pfCAHaIk?t=0s)
 
 <br>
 
